@@ -1,4 +1,6 @@
 # pokecord-selfbot
+Please note that selfbots are against Discord's TOS. This was mostly for educational purposes. <br>
+
 Discord self bot utilizing Node.JS and discord.js to automate Pokecord text-spamming and pokemon catching (WIP).
 The current implementation uses the discord.js API to fetch Pokecord bot's embedded messages. <br>
 The 'Pokemon appeared' image data is taken as a blob object and converted to a byte64string. <br>
