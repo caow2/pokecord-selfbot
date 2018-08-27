@@ -1,0 +1,22 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "Self bot for pokecord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "blob-util": "^2.0.2",
+    "create-object-url": "^1.0.2",
+    "csv-parse": "^2.5.0",
+    "discord.js": "^11.4.2",
+    "http": "0.0.0",
+    "node-fetch": "^2.2.0",
+    "random-words": "^1.1.0",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  }
+}

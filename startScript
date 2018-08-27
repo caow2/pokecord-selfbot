@@ -1,0 +1,4 @@
+#! /bin/bash
+pkill -f "[/a-zA-z]*node index"
+cd ~/Desktop/selfbot
+/usr/local/bin/node index.js
